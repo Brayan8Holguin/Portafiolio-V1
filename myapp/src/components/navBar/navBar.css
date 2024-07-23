@@ -1,0 +1,13 @@
+.container-navBar {
+  height: 80px;
+  width: 100%;
+  background-color: #262626;
+  margin: 0%;
+  padding: auto;
+}
+
+.img-logo {
+  height: 100%;
+  width: 5%;
+  margin-left: 50px;
+}
