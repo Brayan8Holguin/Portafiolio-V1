@@ -4,7 +4,11 @@ import "./navBar.css";
 function NavBar() {
   return (
     <div className="container-navBar">
-      <img className="img-logo" src="BH.png" alt="" />
+      <img
+        className="img-logo"
+        src="https://i.postimg.cc/2yPVXbFP/BH.png"
+        alt=""
+      />
     </div>
   );
 }

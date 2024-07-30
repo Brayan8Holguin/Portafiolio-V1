@@ -15,7 +15,7 @@ function Home() {
     <div className="container-home">
       <div className="content-about">
         <div className="img-yo">
-          <img src="imagen.jpg" alt="" />
+          <img src="https://i.postimg.cc/44M73qkB/Yo.jpg" alt="" />
         </div>
         <div className="text-home">
           <h1>¡Hola! Soy Brayan</h1>
